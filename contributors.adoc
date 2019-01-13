@@ -1,0 +1,9 @@
+[preface]
+== Contributors
+
+Since this is an Open Source book, I anticipate donated errata and content changes. All the people who have contributed to the English version of the PiCrate book as an open source project will be listed here.
+
+[source,tabsize=8]
+----
+include::contributors.txt[]
+----
