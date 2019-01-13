@@ -3,7 +3,7 @@ A guide to writing processing sketches in ruby on RaspberryPI
 
 Welcome to the PiCrate book.
 
-Using Scott Chacon adociidoc https://github.com/progit/progit2 as a template for the book.
+Using Scott Chacon asciidoc https://github.com/progit/progit2 as a template for the book.
 
 
 == How To Generate the Book (_It doesn't work yet silly, there's no content_, but it will one day)
